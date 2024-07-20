@@ -8,6 +8,5 @@ streamlit
 langchain_community
 python-dotenv
 pypdf
-PyMuPDFb-1.24.6 
-docx2txt-0.8 
-pymupdf-1.24.7
+docx2txt 
+pymupdf
